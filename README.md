@@ -8,6 +8,6 @@ google 웹사이트에 대한 clone coding
 
 
 
-[작업 결과물]
+[1차 작업 결과물]
 
 <img src="result-1.png" alt="result-1" style="zoom:60%;" />
